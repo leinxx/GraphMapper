@@ -2,7 +2,8 @@
 Official Implementation of **Primitive Graph Learning for Unified Vector Mapping**
 
 ## TODO
-[] Refactor code
+- [ ] Refactor code
+- [ ] Submit initial version
 
 ## References
 
